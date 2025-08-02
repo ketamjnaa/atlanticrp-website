@@ -1,12 +1,12 @@
 {
   "rewrites": [
-    { "source": "/tos", "destination": "/api/tos" },
-    { "source": "/informativa-privacy", "destination": "/api/privacy" },
-    { "source": "/politica-rimborso", "destination": "/api/rimborsi" },
-    { "source": "/regolamento", "destination": "/api/regolamento" },
-    { "source": "/vota", "destination": "/api/vota" },
+    { "source": "/tos", "destination": "/tos.html" },
+    { "source": "/informativa-privacy", "destination": "/privacy.html" },
+    { "source": "/politica-rimborso", "destination": "/rimborsi.html" },
+    { "source": "/regolamento", "destination": "/regolamento.html" },
+    { "source": "/vota", "destination": "/vota.html" },
     { "source": "/staff", "destination": "/staff.html"},
-    { "source": "/", "destination": "/api/index" }
+    { "source": "/", "destination": "/index.html" }
 
   ]
 }
