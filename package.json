@@ -1,0 +1,29 @@
+{
+  "name": "my-backend-app",
+  "version": "1.0.0",
+  "description": "Sito backend in Node.js con Express che serve file statici HTML, CSS, JS e immagini.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "backend",
+    "static",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
