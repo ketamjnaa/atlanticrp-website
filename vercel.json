@@ -5,11 +5,7 @@
     { "source": "/politica-rimborso", "destination": "/api/rimborsi" },
     { "source": "/regolamento", "destination": "/api/regolamento" },
     { "source": "/vota", "destination": "/api/vota" },
-    {
-      "source": "/staff",
-      "destination": "/staff.html",
-      "permanent": false
-    },
+    { "source": "/staff", "destination": "/staff.html"},
     { "source": "/", "destination": "/api/index" }
 
   ]
