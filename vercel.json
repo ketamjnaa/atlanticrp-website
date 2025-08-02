@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/tos", "destination": "/tos.html" },
+    { "source": "/termini-di-servizio", "destination": "/tos.html" },
     { "source": "/informativa-privacy", "destination": "/privacy.html" },
     { "source": "/politica-rimborso", "destination": "/rimborsi.html" },
     { "source": "/regolamento", "destination": "/regolamento.html" },
