@@ -2,7 +2,7 @@
   "rewrites": [
     { "source": "/termini-di-servizio", "destination": "/tos.html" },
     { "source": "/informativa-privacy", "destination": "/privacy.html" },
-    { "source": "/politica-rimborso", "destination": "/rimborsi.html" },
+    { "source": "/politica-rimborsi", "destination": "/rimborsi.html" },
     { "source": "/regolamento", "destination": "/regolamento.html" },
     { "source": "/vota", "destination": "/vota.html" },
     { "source": "/staff", "destination": "/staff.html"},
