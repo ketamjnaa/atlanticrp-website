@@ -9,7 +9,7 @@
       "source": "/staff",
       "destination": "/staff.html",
       "permanent": false
-    }
+    },
     { "source": "/", "destination": "/api/index" }
 
   ]
